@@ -3,6 +3,7 @@
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
   X-XSS-Protection: 1; mode=block
+  Content-Encoding: zstd, br, gzip, deflate
   Referrer-Policy: strict-origin
   Cross-Origin-Embedder-Policy: unsafe-none; report-to='default'
   Cross-Origin-Embedder-Policy-Report-Only: unsafe-none; report-to='default'
